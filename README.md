@@ -2,5 +2,5 @@
 <p align="justify">
 Shopping é um sistema simples com finalidade de praticar POO em Java.
 
-A aplicação consiste em um sistemas que gerência o fluxo de um caixa de supermercado, registrando compras, processamento de pagamento.  
+A aplicação consiste em um sistemas que gerência o fluxo de um caixa de supermercado, registrando compras, endereço para entregas e processamento de pagamento.  
 </p>
