@@ -64,6 +64,10 @@ public class CompraTeste {
 				sc.nextLine();
 			}
 
+			
+			
+			
+			
 			c1.setCEP(cep);
 			System.err.print("INSIRA O BAIRRO: ");
 			c1.bairro = sc.nextLine();
